@@ -434,7 +434,7 @@ function Sidebar({ colorThem }) {
                           icon={<HomeOutlinedIcon />}
                           onClick={() => navigateTo(Router.ADMIN_DASHBOARD)}
                         >
-                          Dashboard
+                          Home
                         </MenuItem>
                         {user?.permissions?.map((item, index) => {
                           return (
