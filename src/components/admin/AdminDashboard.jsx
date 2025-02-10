@@ -171,7 +171,7 @@ function AdminDashboard({ colorThem }) {
 
               <div className="col-lg-6 ">
               <div className="pie-container">
-              <h4>Campaign Chart</h4>
+              <h4>Campaign Chart Testing</h4>
                 <Adminbarchart />
               </div> 
               </div>
