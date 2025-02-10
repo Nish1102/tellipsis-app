@@ -1625,7 +1625,7 @@ function DID_TFN_number({ colorThem }) {
                            
                           >
                           
-                          Updated Destination
+                          Update Destination
                           </DialogTitle>
                             <DialogContent>
                               <form>
