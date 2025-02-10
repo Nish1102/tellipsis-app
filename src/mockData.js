@@ -1,4 +1,4 @@
-const dev = "https://forwarding.tellipsis.com";
+const dev = "https://devredirect.tellipsis.com";
 const prod = "https://forwarding.tellipsis.com";
 const domain = window.location.host;
 
