@@ -211,7 +211,7 @@ function Login() {
                         paddingBottom: "3px",
                       }}
                     >
-                      Username + Lalit
+                      Username 
                     </label>
                     <TextField
                       id="username-input"
