@@ -157,7 +157,7 @@ function AdminDashboard({ colorThem }) {
            <div className="row">
               <div className="col-lg-6 ">
               <div className="pie-container">
-              <h4>Calls Minutes Summary (Testing)</h4>
+              <h4>Calls Minutes Summary</h4>
                 <PieChart />
               </div>
               </div>
